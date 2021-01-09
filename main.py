@@ -10,4 +10,4 @@ from src.grafiki import linijas, punkti, stabini, histogramma,rinka, zimets
 
 # histogramma()
 
-# zimets()
+zimets()
